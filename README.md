@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-File Browser is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://filebrowser.org/
+File Browser is an open‑source web file manager that provides a self‑hosted interface for browsing, uploading, downloading, editing and sharing files within a specified directory. It supports authentication, permissions, and a range of configuration options, and can be deployed as a single binary or Docker container. The project is archived as of September 2026, with no further releases or security updates planned, so users should consider alternatives for production use.
+
+**Areas:** File-Management · Open-Source · Self-Hosted · Archived · Go
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://github.com/filebrowser/filebrowser)
+- [Documentation](https://github.com/filebrowser/filebrowser/tree/master/docs)
+- [Pricing](https://github.com/pricing)
+- [Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=filebrowser%2Ffilebrowser)
+- [Support](https://support.github.com)
+- [Security](https://github.com/filebrowser/filebrowser/security)
+- [GitHub](https://github.com/why-github)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/filebrowser/](https://apis.io/providers/filebrowser/).
